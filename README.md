@@ -66,5 +66,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 "# Laravel-VUE-CRUD" 
 
 ## Youtube Tutorial
-https://youtu.be/F3EdFEdxnLo
-
+https://youtu.be/XBEoCC1A7_o
